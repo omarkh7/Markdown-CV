@@ -1,4 +1,4 @@
-<!-- ![img](omar.jpeg) -->
+![img](omar.jpeg)
 # Omar Khankan
 
 ## Personal Details:
@@ -46,6 +46,6 @@ Codi tech
 6. The complete HTML5 Course : From Beginning to Expert
 
 ## Extracurricular Activities:
-
+Lebanese Civil Defense, Beirut, Lebanon
 
 
